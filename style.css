@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+.movie-posters {
+    height: auto;
+    width: 600px;
+    padding-left: 25px;
+    
+    
+}
+
+.movie-posters hover{
+
+}
+
+p {
+    text-align: right;
+}
+
